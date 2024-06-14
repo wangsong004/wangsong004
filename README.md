@@ -2,7 +2,7 @@
 - 👀 I’m interested in geometry processing
 - 🌱 I’m currently learning implicit modeling
 - 💞️ I’m looking to collaborate on geometry processing and implicit modeling
-- 📫 How to reach me wangs@voxeldance.com
+- 📫 How to reach me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
